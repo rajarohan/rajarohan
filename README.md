@@ -9,7 +9,7 @@
 - Tools: Integrated Development Environments (IDEs) , Code Editors
 
 🌐 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/rajarohan-reddy-115b83251
+- LinkedIn: https://www.linkedin.com/in/rajarohan-reddy/
 - Instagram: https://instagram.com/nandu.__2111_?igshid=OGQ5ZDc2ODk2ZA==
 
 📫 Feel free to reach out for collaboration or just to say hi!
