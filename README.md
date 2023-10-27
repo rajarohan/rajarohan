@@ -10,7 +10,7 @@
 
 🌐 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/rajarohan-reddy/
-- Instagram: https://instagram.com/nandu.__2111_?igshid=OGQ5ZDc2ODk2ZA==
+- Email: rajarohanreddy529@gmail.com
 
 📫 Feel free to reach out for collaboration or just to say hi!
 
