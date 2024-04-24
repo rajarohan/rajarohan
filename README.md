@@ -9,6 +9,8 @@
 - Tools: Integrated Development Environments (IDEs) , Code Editors
 
 🌐 Connect with me:
+-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rajarohan-reddy/)
+-Gmail: [Your Email Address](rajarohanreddy529@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/rajarohan-reddy/
 - Email: rajarohanreddy529@gmail.com
 - Google For Developers: https://g.dev/RajaRohan_Reddy_Vaidyua
