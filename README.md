@@ -34,8 +34,6 @@
     <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
   </a>
 </p>
--Gmail: [Email](rajarohanreddy529@gmail.com)
--Google For Developers: [Profile](https://g.dev/RajaRohan_Reddy_Vaidyua)
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
