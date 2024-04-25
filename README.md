@@ -26,7 +26,14 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 🌐 Connect with me:
--LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajarohan-reddy/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajarohan-reddy/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/2203a52126" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
+  </a>
+</p>
 -Gmail: [Email](rajarohanreddy529@gmail.com)
 -Google For Developers: [Profile](https://g.dev/RajaRohan_Reddy_Vaidyua)
 
