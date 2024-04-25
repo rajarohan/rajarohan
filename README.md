@@ -42,6 +42,9 @@
   <a href="https://www.hackerrank.com/profile/2203a52126" target="blank">
     <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
   </a>
+  <a href="https://g.dev/RajaRohan_Reddy_Vaidyua" target="blank">
+    <img src="https://img.shields.io/badge/Google+developer+profile-465149?style=for-the-badge"/>
+  </a>
 </p>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
