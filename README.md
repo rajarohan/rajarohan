@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
   </a>
   <a href="https://g.dev/RajaRohan_Reddy_Vaidyua" target="blank">
-    <img src="https://img.shields.io/badge/Google+developer+profile-465149?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Google developer profile-465149?style=for-the-badge"/>
   </a>
 </p>
 <br>
