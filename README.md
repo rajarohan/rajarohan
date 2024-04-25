@@ -54,6 +54,9 @@
 <!--- -- Socials ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-📫 Feel free to reach out for collaboration or just to say hi!
+<p align="center">
+    <img src="https://img.shields.io/badge/📫 Feel free to reach out for collaboration or just to say hi!-465149?style=for-the-badge"/>
+  </a>
+</p>
 
 🌈 "Code is poetry, and I'm here to write some beautiful verses." 🌈
