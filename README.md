@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/badge/Hackerrank-465149?style=for-the-badge"/>
   </a>
 </p>
-
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
