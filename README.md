@@ -55,8 +55,6 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <p align="center">
-    <img src="https://img.shields.io/badge/📫 Feel free to reach out for collaboration or just to say hi!-465149?style=for-the-badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/📫 Feel free to reach out for collaboration or just to say hi!-E34F26?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌈 Code is poetry,and I'm here to write some beautiful verses. 🌈-E34F26?style=for-the-badge"/>
 </p>
-
-🌈 "Code is poetry, and I'm here to write some beautiful verses." 🌈
