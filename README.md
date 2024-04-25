@@ -1,6 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! I'm Rajarohan!
 
-💻 Machine Learning Enthusiast | 📚 Lifelong Learner
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello&hearts;++;Machine+Learning+Enthusiast,;Computer+Science+Student,;Love+to+learn+new+stuffs..<3">
+</p>
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
