@@ -80,6 +80,24 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<h3 align="center">Competitive Programming Profiles</h3>
+<br>
+<div align="center">
+  <a href="https://www.hackerrank.com/2203a52126">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="40" alt="HackerRank logo" />
+    <span style="font-weight: bold; color: white;">Score: [Your Score]</span>
+  </a>
+  <a href="https://www.codechef.com/users/raja_rohan21">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" height="40" alt="CodeChef logo" />
+    <span style="font-weight: bold; color: white;">Rating: [Your Rating]</span>
+  </a>
+  <a href="https://leetcode.com/RajaRohan_Reddy">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="40" alt="LeetCode logo" />
+    <span style="font-weight: bold; color: white;">Score: [Your Score]</span>
+  </a>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
 
 <!-- Closing Message -->
 <p align="center">
