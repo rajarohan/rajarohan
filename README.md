@@ -18,24 +18,69 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 🔧 Tech Stack:
-
-![C](https://img.shields.io/badge/-C-1572B6?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1342B6?style=flat-square&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-A842C6?style=flat-square&logo=sql)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-4142C6?style=flat-square&logo=pl/sql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=white)
-
-
 <br>
+<b>Languages:<b>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
+</div>
+
+
+
+<br>
+<b>Framerworks and Libraries:<b>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-61DAFB?logo=TensorFlow&logoColor=orange&style=for-the-badge" height="39" alt="TensorFlow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ScikitLearn-000000?logo=ScikitLearn&logoColor=white&style=for-the-badge" height="39" alt="ScikitLearn logo"  />
+  <img width="12" />
+</div>
+
+
+  
+<br>
+
+
+<b>Tools:</b>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- --------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Code logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="40" alt="Google Chrome logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="Git logo" />  
+</div>
+<br>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true"  width="50%" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3"  width="45%" alt="streak graph"  />
+</div>
+
+
+<br>
 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/rajarohan-reddy/" target="blank">
