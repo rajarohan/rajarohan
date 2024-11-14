@@ -1,0 +1,33 @@
+name: Update Competitive Programming Scores
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  
+  workflow_dispatch: 
+
+jobs:
+  update-scores:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install requirements
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Fetch and update scores
+        run: python update_scores.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated competitive programming scores" || echo "No changes to commit"
+          git push
