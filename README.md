@@ -57,12 +57,9 @@
 <!-- Activity Section -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
-  <table>
-    <tr>
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&hide_border=true" width="100%" alt="Activity Graph" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&hide_border=true" width="90%" alt="Activity Graph" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" width="45%" alt="GitHub Streak" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
