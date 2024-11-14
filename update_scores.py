@@ -1,13 +1,18 @@
 import requests
+from bs4 import BeautifulSoup
 import re
 
 def fetch_leetcode_score(username):
-    url = f"https://leetcode-stats-api.herokuapp.com/RajaRohan_Reddy"
+    url = f"https://leetcode.com/{username}/"
     response = requests.get(url)
     if response.status_code == 200:
-        data = response.json()
-        return data.get("totalSolved", "N/A")  # Modify based on the actual key in the API response
-    return "N/A"
+        soup = BeautifulSoup(response.text, 'html.parser')
+        # Look for the score in the page. Adjust the selector based on the actual HTML structure.
+        # Here, we assume the total solved problems appear in an element with class name like 'total-solved-count'
+        score_element = soup.find("div", {"class": "total-solved-count"})
+        if score_element:
+            return score_element.text.strip()
+    return "N/A"  # Fallback if score not found
 
 def update_readme(score):
     with open("README.md", "r+") as file:
@@ -19,6 +24,6 @@ def update_readme(score):
         file.truncate()
 
 # Replace 'your_leetcode_username' with your actual LeetCode username
-username = "your_leetcode_username"
+username = "RajaRohan_Reddy"
 score = fetch_leetcode_score(username)
 update_readme(score)
