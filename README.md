@@ -80,7 +80,6 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-<h3 align="center">Competitive Programming Profiles</h3>
 <br>
 
 <h2 align="center">Competitive Programming Ratings</h2>
