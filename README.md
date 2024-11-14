@@ -34,8 +34,11 @@
 
 <div align="center">
   <h3>Frameworks and Libraries</h3>
-  <img src="https://img.shields.io/badge/TensorFlow-61DAFB?logo=TensorFlow&logoColor=orange&style=for-the-badge" height="40" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ScikitLearn-000000?logo=scikitlearn&logoColor=white&style=for-the-badge" height="40" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=black&style=for-the-badge" height="40" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" height="40" alt="Keras" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -46,6 +49,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="40" alt="Google Chrome" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge" height="40" alt="Google Colab" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -53,9 +57,12 @@
 <!-- Activity Section -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&hide_border=true" width="90%" alt="Activity Graph" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" width="45%" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&hide_border=true" width="100%" alt="Activity Graph" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -64,19 +71,6 @@
 <div align="center">
   <h3>🏆 Achievements</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=rajarohan&theme=dracula&column=4&margin-w=8&margin-h=8" height="200" alt="GitHub Trophies" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-<!-- Social Links -->
-<h3 align="center">Connect with Me</h3>
-<div align="center">
-  <a href="mailto:rajarohanreddy529@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rajarohan-reddy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="LinkedIn" />
-  </a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -91,8 +85,17 @@
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-
+<!-- Social Links -->
+<h3 align="center">Connect with Me</h3>
+<div align="center">
+  <a href="mailto:rajarohanreddy529@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajarohan-reddy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="LinkedIn" />
+  </a>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <!-- Closing Message -->
 <p align="center">
   <img src="https://img.shields.io/badge/📫 Feel free to reach out for collaboration or just to say hi!-E34F26?style=for-the-badge" />
