@@ -82,13 +82,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <h3 align="center">Competitive Programming Profiles</h3>
 <br>
-<div align="center">
-  <a href="https://leetcode.com/RajaRohan_Reddy">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="40" alt="LeetCode logo" />
-    <span style="font-weight: bold; color: white;">LeetCode Score: <!--LEETCODE_SCORE-->
-</span>
-  </a>
-</div>
+
+![LeetCode Activity](https://leetcard.jacoblin.cool/RajaRohan_Reddy?ext=activity)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 
