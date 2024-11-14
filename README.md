@@ -83,7 +83,16 @@
 <h3 align="center">Competitive Programming Profiles</h3>
 <br>
 
-![LeetCode Activity](https://leetcard.jacoblin.cool/RajaRohan_Reddy?ext=activity)
+<h2 align="center">Competitive Programming Ratings</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/RajaRohan_Reddy/">
+    <img src="https://leetcard.jacoblin.cool/RajaRohan_Reddy?ext=activity" height="500" alt="LeetCode activity" />
+  </a>
+  <a href="https://www.codechef.com/users/raja_rohan21">
+    <img src="https://clubbadge.codechef.com/raja_rohan21" height="500" alt="CodeChef activity" />
+  </a>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
