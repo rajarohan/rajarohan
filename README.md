@@ -57,6 +57,8 @@
   <h3>📊 GitHub Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajarohan&radius=16&theme=react&area=true&hide_border=true" width="50%" alt="Activity Graph" />
   <img src="https://streak-stats.demolab.com?user=rajarohan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" width="45%" alt="GitHub Streak" />
+  <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarohan&theme=vue&hide=css,tcl,html"/>
+  <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=rajarohan&count_private=true&show_icons=true&theme=vue&include_all_commits=true"/>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
