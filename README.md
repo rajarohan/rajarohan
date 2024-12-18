@@ -32,6 +32,8 @@
 
 <div align="center">
   <h3>Frameworks and Libraries</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express.js" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=black&style=for-the-badge" height="40" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="Pandas" />
@@ -51,7 +53,12 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
+<div align="center">
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge" height="40" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL" />
+</div>
 <!-- Activity Section -->
 <div align="center">
   <h3>📊 GitHub Activity</h3>
