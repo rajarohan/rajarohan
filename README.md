@@ -85,7 +85,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/RajaRohan_Reddy/">
-    <img src="https://leetcard.jacoblin.cool/RajaRohan_Reddy?ext=activity" height="500" alt="LeetCode activity" />
+    <img src="https://leetcard.jacoblin.cool/RajaRohan_Reddy?ext=heatmap" height="500" alt="LeetCode activity" />
   </a>
 </p>
 
