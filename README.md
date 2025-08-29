@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=rajarohan&label=Profile%20views&color=0e75b6&style=flat" alt="rajarohan" width="200" height="60"/>
 </p>
 <p align="center">
-  🌟 Passionate about creating innovative solutions, I enjoy diving deep into code and exploring new technologies. My goal is to contribute to the world of software development and make a positive impact.
+  🌟 I speak Pyhton and JavaScript.
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
