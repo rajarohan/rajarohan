@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+%E2%9D%A4%EF%B8%8F;Machine+Learning+Enthusiast;Computer+Science+Student">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+%E2%9D%A4%EF%B8%8F;Machine+Learning;Android+Development;Web+Development;">
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 <!-- --------------------------------------------------------------------------------------------- -->
